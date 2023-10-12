@@ -14,7 +14,7 @@
        "args": [
            "--name=diabetes-predictor-pipeline",           
 		   "--pipeline_def=./lab5/diabetes_predictor_training_pipeline_v2.yaml",
-           "--pipeline_root=gs://temp_de2023",         
+           "--pipeline_root=gs://temp_de2023_20193277",         
 		   "--parameter_dict=./parameters.json"
         ]
    }
